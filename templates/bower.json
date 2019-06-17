@@ -1,0 +1,21 @@
+{
+  "name": "templates",
+  "authors": [
+    "Tien Toan Tai <nguyenminhtien61vn@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flat-ui": "^2.2.2"
+  }
+}

@@ -1,0 +1,34 @@
+
+/*xs*/
+@media (max-width: 767px) {
+    .home-image{
+
+    }
+}
+
+/*sm*/
+@media (min-width: 768px){
+    .home-image{
+        height: 340px;
+    }
+    .plant-image{height: 330px}
+}
+
+/*md*/
+@media (min-width: 992px){
+    .home-image{
+        height: 215px;
+    }
+    .plant-image{height: 293px}
+}
+
+/*lg*/
+@media (min-width: 1200px){
+    .home-image{
+        height: 265px;
+    }
+
+    .plant-image{height: 360px}
+}
+
+
